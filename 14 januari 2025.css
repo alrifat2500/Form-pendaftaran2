@@ -1,0 +1,35 @@
+*{
+    font-family: 'Times New Roman', Times, serif
+}
+
+body {
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: #c9c4c4;
+}
+
+form {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    max-width: 500px;
+    margin: auto;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
+button[type="submit"] {
+    background-color: #1a4dcd;
+    color: white;
+    border: none;
+    padding: 10px 225px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+
